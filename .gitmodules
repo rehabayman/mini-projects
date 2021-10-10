@@ -1,0 +1,3 @@
+[submodule "graphql-learning"]
+	path = graphql-learning
+	url = https://github.com/rehabayman/graphql-learning.git
