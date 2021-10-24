@@ -1,3 +1,6 @@
 [submodule "graphql-learning"]
 	path = graphql-learning
 	url = https://github.com/rehabayman/graphql-learning.git
+[submodule "simple-screen-recorder-js"]
+	path = simple-screen-recorder-js
+	url = https://github.com/rehabayman/simple-screen-recorder-js.git
