@@ -4,3 +4,6 @@
 [submodule "simple-screen-recorder-js"]
 	path = simple-screen-recorder-js
 	url = https://github.com/rehabayman/simple-screen-recorder-js.git
+[submodule "url-shortening"]
+	path = url-shortening
+	url = https://github.com/rehabayman/url-shortening.git
