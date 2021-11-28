@@ -7,3 +7,6 @@
 [submodule "url-shortening"]
 	path = url-shortening
 	url = https://github.com/rehabayman/url-shortening.git
+[submodule "filtering-data"]
+	path = filtering-data
+	url = https://github.com/rehabayman/filtering-data.git
