@@ -10,3 +10,6 @@
 [submodule "filtering-data"]
 	path = filtering-data
 	url = https://github.com/rehabayman/filtering-data.git
+[submodule "url-monitoring"]
+	path = url-monitoring
+	url = https://github.com/rehabayman/url-monitoring
