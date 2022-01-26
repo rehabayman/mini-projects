@@ -13,3 +13,6 @@
 [submodule "url-monitoring"]
 	path = url-monitoring
 	url = https://github.com/rehabayman/url-monitoring
+[submodule "simple-crm-laravel"]
+	path = simple-crm-laravel
+	url = https://github.com/rehabayman/simple-crm-laravel.git
