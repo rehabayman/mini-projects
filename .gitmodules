@@ -16,3 +16,6 @@
 [submodule "simple-crm-laravel"]
 	path = simple-crm-laravel
 	url = https://github.com/rehabayman/simple-crm-laravel.git
+[submodule "infix-postfix"]
+	path = infix-postfix
+	url = https://github.com/rehabayman/infix-postfix.git
